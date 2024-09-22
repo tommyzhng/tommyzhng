@@ -1,9 +1,6 @@
+<h2 align="center">Helloo, I'm Tommy Zhang 👋</h2>
 
-   
 <p align="center">
-  Helloo, I'm Tommy Zhang 👋
-  <br>
-  <br>
   Currently working towards my Bachelor of Applied Science in the Engineering Science program at the University of Toronto (2023-2027)
   <br> I'm interested in working with applications and safety of aerial vehicles like UAVs
 </p>
