@@ -1,11 +1,11 @@
 
    
 <p align="center">
-  Helloo, I'm Tommy Zhang
+  Helloo, I'm Tommy Zhang 👋
   <br>
   <br>
-  I'm currently working towards my Bachelor of Applied Science under the Engineering Science program at the University of Toronto -> 2027
-  <br>
+  I'm currently working towards my Bachelor of Applied Science under the Engineering Science program at the University of Toronto
+  <br>(2023-2027)
 </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/tommyzhng/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:tzy.zhang@mail.utoronto.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mailbox.org&logoColor=white" height=23></a>
