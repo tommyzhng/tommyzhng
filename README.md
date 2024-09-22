@@ -8,7 +8,7 @@
   <br>
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/tommyzhng/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:tzy.zhang@mail.utoronto.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<p align="center"> <a href="https://www.linkedin.com/in/tommyzhng/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:tzy.zhang@mail.utoronto.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mailbox.org&logoColor=white" height=23></a>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
