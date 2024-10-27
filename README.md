@@ -9,16 +9,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ros,cpp,matlab,py,git,vscode,linux,qt,gcp,raspberrypi&perline=10"/>
-</p>
-
-<h2 align="center">Stats</h2>
-<br>
-
-<p align="center">
-<a href="https://github.com/tommyzhng/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyzhng&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
+<img src="https://skillicons.dev/icons?i=ros,cpp,matlab,py,git,vim,vscode,linux,qt,raspberrypi&perline=10"/>
 </p>
 
 <!--Footer--> 
