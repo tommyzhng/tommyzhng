@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Tommy Zhang 👋</h2>
 
 <p align="center">
-  Working towards my BASc in the Engineering Science program (Aerospace Major, Robotics Minor) at the University of Toronto (2023-2027).
+  Working towards my BASc in the Engineering Science program (Aerospace Major, Robotics Minor) at the University of Toronto.
   <br> I'm interested in working with applications and safety of UAVS & aerial vehicles
 </p>
 
